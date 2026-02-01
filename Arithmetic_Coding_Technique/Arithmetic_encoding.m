@@ -1,5 +1,4 @@
-%% Arithmetic Coding – Alternate Example
-% Same algorithm, different data & coding style
+
 
 clc;
 clear;
