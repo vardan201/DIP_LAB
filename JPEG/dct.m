@@ -1,5 +1,4 @@
-%% JPEG-like Image Compression using DCT
-% Refactored implementation – same logic, modified structure & naming
+
 
 clc;
 clear;
